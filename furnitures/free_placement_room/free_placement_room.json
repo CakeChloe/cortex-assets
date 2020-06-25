@@ -1,0 +1,1 @@
+{"assets":{"free_placement_room_icon_a":{"offsets":{"left":5,"top":14},"sprite":{"left":0,"top":0,"width":12,"height":30}}},"visualization":{"type":"furniture_static","layerCount":1,"layers":{},"directions":{"0":{},"2":{}},"colors":{},"animations":{}},"logic":{"type":"furniture_basic","dimensions":[1.0,1.0,0.1],"directions":[0,90],"particlesystems":[]}}
