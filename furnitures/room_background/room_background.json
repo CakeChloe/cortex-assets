@@ -1,0 +1,44 @@
+{
+  "assets": {
+    "room_background_64_a_1_0": {
+      "offsets": {
+        "left": -14,
+        "top": -7
+      },
+      "sprite": {
+        "left": 0,
+        "top": 0,
+        "width": 28,
+        "height": 15
+      }
+    },
+    "room_background_32_a_1_0": {
+      "source": "room_background_64_a_1_0"
+    },
+    "room_background_icon_a": {
+      "source": "room_background_64_a_1_0"
+    }
+  },
+  "visualization": {
+    "type": "furniture_bg",
+    "layerCount": 1,
+    "layers": {},
+    "directions": {
+      "1": {}
+    },
+    "colors": {},
+    "animations": {}
+  },
+  "logic": {
+    "type": "furniture_bg",
+    "dimensions": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "directions": [
+      0
+    ],
+    "particlesystems": []
+  }
+}
