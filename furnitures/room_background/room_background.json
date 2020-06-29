@@ -2,8 +2,8 @@
   "assets": {
     "room_background_64_a_1_0": {
       "offsets": {
-        "left": -14,
-        "top": -7
+        "left": 14,
+        "top": 7
       },
       "sprite": {
         "left": 0,
