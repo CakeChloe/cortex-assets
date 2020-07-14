@@ -1,0 +1,56 @@
+{
+  "assets": {
+    "snowstorm_gate_64_a_2_0": {
+      "offsets": {
+        "left": 8,
+        "top": 152
+      },
+      "sprite": {
+        "left": 68,
+        "top": 0,
+        "width": 58,
+        "height": 186
+      }
+    },
+    "snowstorm_gate_64_b_2_0": {
+      "offsets": {
+        "left": 76,
+        "top": 152
+      },
+      "sprite": {
+        "left": 0,
+        "top": 0,
+        "width": 68,
+        "height": 186
+      }
+    }
+  },
+  "visualization": {
+    "type": "furniture_static",
+    "layerCount": 2,
+    "layers": {
+    	"0": {
+    		"z": "-1000"
+    	},
+      "1": {
+        "z": "1000"
+      }
+    },
+    "directions": {
+      "2": {}
+    },
+    "colors": {}
+  },
+  "logic": {
+    "type": "furniture_basic",
+    "dimensions": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "directions": [
+      90
+    ],
+    "particlesystems": []
+  }
+}
